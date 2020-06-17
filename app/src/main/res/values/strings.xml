@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DistanceTracker</string>
+    <string name="google_map_api">AIzaSyBzJXrob8gGv209iYck4wGJXWMdFgsIkpc</string>
+</resources>
